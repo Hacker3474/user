@@ -28,5 +28,11 @@
         "password": "Root",
         "subscription_days": 0,
         "account_type": "Free"
+    },
+    {
+        "login": "user",
+        "password": "1234",
+        "subscription_days": 0,
+        "account_type": "Free"
     }
 ]
