@@ -46,5 +46,11 @@
         "password": "Frost1kpromonster228",
         "subscription_days": 0,
         "account_type": "Free"
+    },
+    {
+        "login": "Login",
+        "password": "81939214",
+        "subscription_days": 0,
+        "account_type": "Free"
     }
 ]
