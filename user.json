@@ -1,46 +1,9 @@
 [
-        {
+    {
         "login": "Banhoto",
-        "password": "1201"
-    },
-    {
-        "login": "Wourld_user",
-        "password": "erorr1488"
-    },
-    {
-        "login": "Wourld_2",
-        "password": "wellwellwell"
-    },
-    {
-        "login": "Wel",
-        "password": "Rick288"
-    },
-    {
-        "login": "Pidoras",
-        "password": "Pidoras288"
-    },
-    {
-        "login": "Stiv",
-        "password": "startgay"
-    },
-    {
-        "login": "Notgay",
-        "password": "Gay"
-    },
-    {
-        "login": "igor",
-        "password": "roblox"
-    },
-    {
-        "login": "anider",
-        "password": "net"
-    },
-    {
-        "login": "Pavel",
-        "password": "Cheat"
-    },
-    {
-        "login": "Da",
-        "password": "Pizda"
+        "password": "1201",
+        "subscription_days": 999,
+        "account_type": "premium"
     }
-]
+   
+]    
