@@ -4,6 +4,13 @@
         "password": "1201",
         "subscription_days": 999,
         "account_type": "premium"
+    },
+
+        {
+        "login": "Test",
+        "password": "1201",
+        "subscription_days": 999,
+        "account_type": "Free"
     }
    
 ]    
