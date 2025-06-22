@@ -22,5 +22,11 @@
         "password": "eblan",
         "subscription_days": 999,
         "account_type": "premium"
+    },
+    {
+        "login": "12314",
+        "password": "1212121212",
+        "subscription_days": 0,
+        "account_type": "Free"
     }
 ]
