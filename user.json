@@ -9,7 +9,7 @@
         {
         "login": "Test",
         "password": "1201",
-        "subscription_days": 999,
+        "subscription_days": 0,
         "account_type": "Free"
     }
    
