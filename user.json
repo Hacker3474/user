@@ -7,10 +7,24 @@
     },
 
         {
-        "login": "Test",
-        "password": "1201",
-        "subscription_days": 0,
-        "account_type": "Free"
+        "login": "gurman",
+        "password": "1488",
+        "subscription_days": 999,
+        "account_type": "premium"
+        },
+    
+    {
+        "login": "Big",
+        "password": "3000",
+        "subscription_days": 999,
+        "account_type": "premium"
+    },
+
+    {
+        "login": "gavrilov",
+        "password": "eblan",
+        "subscription_days": 999,
+        "account_type": "premium"
     }
-   
+
 ]    
