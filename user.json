@@ -34,5 +34,11 @@
         "password": "aziz2011",
         "subscription_days": 0,
         "account_type": "Free"
+    },
+    {
+        "login": "OKAKOK",
+        "password": "1359b",
+        "subscription_days": 0,
+        "account_type": "Free"
     }
 ]
