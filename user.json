@@ -28,12 +28,5 @@
         "password": "12011488",
         "subscription_days": 0,
         "account_type": "free"
-    },
-    {
-        "login": "Test",
-        "password": "12",
-        "subscription_days": 0,
-        "account_type": "free",
-        "user_id": 6759924644
     }
 ]
