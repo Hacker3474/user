@@ -5,36 +5,26 @@
         "subscription_days": 999,
         "account_type": "premium"
     },
-    {
+
+        {
         "login": "gurman",
         "password": "1488",
         "subscription_days": 999,
         "account_type": "premium"
-    },
+        },
+    
     {
         "login": "Big",
         "password": "3000",
         "subscription_days": 999,
         "account_type": "premium"
     },
+
     {
         "login": "gavrilov",
         "password": "eblan",
         "subscription_days": 999,
         "account_type": "premium"
-    },
-    {
-        "login": "Test",
-        "password": "12011488",
-        "subscription_days": 0,
-        "account_type": "free"
-    },
-    {
-        "login": "1234",
-        "password": "125",
-        "subscription_days": 0,
-        "account_type": "free",
-        "user_id": 6759924644,
-        "registered_at": "2025-06-22T10:31:30.211007"
     }
-]
+
+]    
