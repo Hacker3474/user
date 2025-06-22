@@ -28,5 +28,13 @@
         "password": "12011488",
         "subscription_days": 0,
         "account_type": "free"
+    },
+    {
+        "login": "1234",
+        "password": "125",
+        "subscription_days": 0,
+        "account_type": "free",
+        "user_id": 6759924644,
+        "registered_at": "2025-06-22T10:31:30.211007"
     }
 ]
