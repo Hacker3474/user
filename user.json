@@ -5,26 +5,28 @@
         "subscription_days": 999,
         "account_type": "premium"
     },
-
-        {
+    {
         "login": "gurman",
         "password": "1488",
         "subscription_days": 999,
         "account_type": "premium"
-        },
-    
+    },
     {
         "login": "Big",
         "password": "3000",
         "subscription_days": 999,
         "account_type": "premium"
     },
-
     {
         "login": "gavrilov",
         "password": "eblan",
         "subscription_days": 999,
         "account_type": "premium"
+    },
+    {
+        "login": "123",
+        "password": "123",
+        "subscription_days": 0,
+        "account_type": ""
     }
-
-]    
+]
