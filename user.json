@@ -28,5 +28,11 @@
         "password": "1212121212",
         "subscription_days": 0,
         "account_type": "Free"
+    },
+    {
+        "login": "Aziz",
+        "password": "aziz2011",
+        "subscription_days": 0,
+        "account_type": "Free"
     }
 ]
