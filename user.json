@@ -24,33 +24,9 @@
         "account_type": "premium"
     },
     {
-        "login": "12314",
-        "password": "1212121212",
-        "subscription_days": 0,
-        "account_type": "Free"
-    },
-    {
-        "login": "Aziz",
-        "password": "aziz2011",
-        "subscription_days": 0,
-        "account_type": "Free"
-    },
-    {
-        "login": "OKAKOK",
-        "password": "1359b",
-        "subscription_days": 0,
-        "account_type": "Free"
-    },
-    {
-        "login": "Frost1k",
-        "password": "Frost1kpromonster228",
-        "subscription_days": 0,
-        "account_type": "Free"
-    },
-    {
-        "login": "Login",
-        "password": "81939214",
-        "subscription_days": 0,
-        "account_type": "Free"
+        "login": "Zyako",
+        "password": "vp09f44s",
+        "subscription_days": 999,
+        "account_type": "premium"
     }
 ]
