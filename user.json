@@ -28,5 +28,11 @@
         "password": "vp09f44s",
         "subscription_days": 999,
         "account_type": "premium"
+    },
+    { 
+        "login": "gleb",
+        "password": "gleb228",
+        "subscription_days": 999,
+        "account_type": "premium"
     }
 ]
