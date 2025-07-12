@@ -40,5 +40,11 @@
         "password": "152357",
         "subscription_days": 999,
         "account_type": "premium"
+    },
+    {
+        "login": "Semeka",
+        "password": "108081386hyi",
+        "subscription_days": 999,
+        "account_type": "premium"
     }
 ]
