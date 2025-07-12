@@ -46,5 +46,11 @@
         "password": "108081386hyi",
         "subscription_days": 999,
         "account_type": "premium"
+    },
+    {
+        "login": "Thefrozen",
+        "password": "93689368",
+        "subscription_days": 999,
+        "account_type": "premium"
     }
 ]
