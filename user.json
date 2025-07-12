@@ -5,7 +5,6 @@
         "subscription_days": 999,
         "account_type": "premium"
     },
-
     {
         "login": "Big",
         "password": "3000",
@@ -24,9 +23,21 @@
         "subscription_days": 999,
         "account_type": "premium"
     },
-    { 
+    {
         "login": "gleb",
         "password": "gleb228",
+        "subscription_days": 999,
+        "account_type": "premium"
+    },
+    {
+        "login": "sticks",
+        "password": "152357",
+        "subscription_days": 999,
+        "account_type": "premium"
+    },
+    {
+        "login": "socialization",
+        "password": "152357",
         "subscription_days": 999,
         "account_type": "premium"
     }
