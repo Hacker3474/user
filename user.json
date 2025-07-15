@@ -52,5 +52,11 @@
         "password": "93689368",
         "subscription_days": 999,
         "account_type": "premium"
+    },
+    {
+        "login": "Smoke",
+        "password": "smokelox123",
+        "subscription_days": 999,
+        "account_type": "premium"
     }
 ]
