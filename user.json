@@ -6,12 +6,6 @@
         "account_type": "premium"
     },
     {
-        "login": "Big",
-        "password": "3000",
-        "subscription_days": 999,
-        "account_type": "premium"
-    },
-    {
         "login": "gavrilov",
         "password": "eblan",
         "subscription_days": 999,
