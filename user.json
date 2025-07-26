@@ -3,60 +3,70 @@
         "login": "Banhoto",
         "password": "1201",
         "subscription_days": 999,
-        "account_type": "premium"
+        "account_type": "premium",
+        "ip": "84.54.86.71"
     },
     {
         "login": "gavrilov",
         "password": "eblan",
         "subscription_days": 999,
-        "account_type": "premium"
+        "account_type": "premium",
+        "ip": "192.168.0.2"
     },
     {
         "login": "Zyako",
         "password": "vp09f44s",
         "subscription_days": 999,
-        "account_type": "premium"
+        "account_type": "premium",
+        "ip": "192.168.0.3"
     },
     {
         "login": "gleb",
         "password": "gleb228",
         "subscription_days": 999,
-        "account_type": "premium"
+        "account_type": "premium",
+        "ip": "192.168.0.4"
     },
     {
         "login": "sticks",
         "password": "152357",
         "subscription_days": 999,
-        "account_type": "premium"
+        "account_type": "premium",
+        "ip": "192.168.0.5"
     },
     {
         "login": "socialization",
         "password": "152357",
         "subscription_days": 999,
-        "account_type": "premium"
+        "account_type": "premium",
+        "ip": "192.168.0.6"
     },
     {
         "login": "Semeka",
         "password": "108081386hyi",
         "subscription_days": 999,
-        "account_type": "premium"
+        "account_type": "premium",
+        "ip": "192.168.0.7"
     },
     {
         "login": "Thefrozen",
         "password": "93689368",
         "subscription_days": 999,
-        "account_type": "premium"
+        "account_type": "premium",
+        "ip": "192.168.0.8"
     },
     {
         "login": "Smoke",
         "password": "smokelox123",
         "subscription_days": 999,
-        "account_type": "premium"
+        "account_type": "premium",
+        "ip": "46.147.255.174"
     },
     {
         "login": "P3rtushka",
         "password": "0605",
         "subscription_days": 999,
-        "account_type": "premium"
+        "account_type": "premium",
+        "ip": "192.168.0.10"
     }
 ]
