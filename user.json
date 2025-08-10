@@ -1,11 +1,4 @@
-[
-    {
-        "login": "CC0",
-        "password": "jWefo3r",
-        "subscription_days": 999,
-        "account_type": "premium",
-        "ip": ""
-    },
+
     {
         "login": "gavrilov",
         "password": "eblan",
@@ -70,3 +63,4 @@
         "ip": "192.168.0.10"
     }
 ]
+
