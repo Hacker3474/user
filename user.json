@@ -21,8 +21,8 @@
         "ip": "192.168.0.4"
     },
     {
-        "login": "sticks",
-        "password": "152357",
+        "login": "Labuba2200",
+        "password": "NeLabuba3300",
         "subscription_days": 999,
         "account_type": "premium",
         "ip": "192.168.0.5"
@@ -63,4 +63,5 @@
         "ip": "192.168.0.10"
     }
 ]
+
 
