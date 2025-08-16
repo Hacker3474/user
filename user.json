@@ -4,97 +4,118 @@
         "password": "eblan",
         "subscription_days": 999,
         "account_type": "premium",
-        "ip": "192.168.0.2"
+        "ip": ""
     },
     {
         "login": "Zyako",
         "password": "vp09f44s",
         "subscription_days": 999,
         "account_type": "premium",
-        "ip": "192.168.0.3"
+        "ip": ""
     },
     {
         "login": "gleb",
         "password": "gleb228",
         "subscription_days": 999,
         "account_type": "premium",
-        "ip": "192.168.0.4"
+        "ip": ""
     },
     {
         "login": "Labuba2200",
         "password": "NeLabuba3300",
         "subscription_days": 999,
         "account_type": "premium",
-        "ip": "192.168.0.5"
+        "ip": ""
     },
     {
         "login": "socialization",
         "password": "152357",
         "subscription_days": 999,
         "account_type": "premium",
-        "ip": "192.168.0.6"
+        "ip": ""
     },
     {
         "login": "Semeka",
         "password": "108081386hyi",
         "subscription_days": 999,
         "account_type": "premium",
-        "ip": "192.168.0.7"
+        "ip": ""
     },
     {
         "login": "Thefrozen",
         "password": "93689368",
         "subscription_days": 999,
         "account_type": "premium",
-        "ip": "109.184.188.125"
+        "ip": ""
     },
     {
         "login": "Smoke",
         "password": "smokelox123",
         "subscription_days": 999,
         "account_type": "premium",
-        "ip": "46.147.255.174"
+        "ip": ""
     },
     {
         "login": "P3rtushka",
         "password": "0605",
         "subscription_days": 999,
         "account_type": "premium",
-        "ip": "192.168.0.10"
+        "ip": ""
     },
     {
         "login": "Raven",
         "password": "shadow99",
         "subscription_days": 999,
         "account_type": "premium",
-        "ip": "192.168.0.11"
+        "ip": ""
     },
     {
         "login": "Orion",
         "password": "starhunter",
         "subscription_days": 999,
         "account_type": "premium",
-        "ip": "192.168.0.12"
+        "ip": ""
     },
     {
         "login": "Vector",
         "password": "pathway88",
         "subscription_days": 999,
         "account_type": "premium",
-        "ip": "192.168.0.13"
+        "ip": ""
     },
     {
         "login": "Echo",
         "password": "silentwave",
         "subscription_days": 999,
         "account_type": "premium",
-        "ip": "192.168.0.14"
+        "ip": ""
     },
     {
         "login": "Falcon",
         "password": "skystrike",
         "subscription_days": 999,
         "account_type": "premium",
-        "ip": "192.168.0.15"
+        "ip": ""
+    },
+    {
+        "login": "Leroy",
+        "password": "gm9ffzzz",
+        "subscription_days": 999,
+        "account_type": "premium",
+        "ip": ""
+    },
+    {
+        "login": "Pidor477",
+        "password": "1488288",
+        "subscription_days": 999,
+        "account_type": "premium",
+        "ip": ""
+    },
+    {
+        "login": "Govno",
+        "password": "1z2z3z4z5z",
+        "subscription_days": 999,
+        "account_type": "premium",
+        "ip": ""
     }
 ]
